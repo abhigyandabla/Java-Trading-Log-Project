@@ -1,0 +1,20 @@
+{"trades": [
+    {
+        "duration": 30,
+        "result": "win",
+        "instrument": "EU",
+        "take profit": 20,
+        "day of week": "Wed",
+        "stop loss": 10,
+        "time of day": 170
+    },
+    {
+        "duration": 30,
+        "result": "loss",
+        "instrument": "Dow",
+        "take profit": 20,
+        "day of week": "Thu",
+        "stop loss": 10,
+        "time of day": 800
+    }
+]}

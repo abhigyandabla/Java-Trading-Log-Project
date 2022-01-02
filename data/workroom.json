@@ -1,0 +1,38 @@
+{"trades": [
+    {
+        "duration": 30,
+        "result": "win",
+        "instrument": "EU",
+        "take profit": 40,
+        "day of week": "Fri",
+        "stop loss": 20,
+        "time of day": 120
+    },
+    {
+        "duration": 100,
+        "result": "loss",
+        "instrument": "GU",
+        "take profit": 110,
+        "day of week": "Tue",
+        "stop loss": 90,
+        "time of day": 800
+    },
+    {
+        "duration": 300,
+        "result": "win",
+        "instrument": "30Year",
+        "take profit": 24,
+        "day of week": "Tue",
+        "stop loss": 8,
+        "time of day": 800
+    },
+    {
+        "duration": 30,
+        "result": "breakeven",
+        "instrument": "EU",
+        "take profit": 10,
+        "day of week": "Thu",
+        "stop loss": 5,
+        "time of day": 754
+    }
+]}

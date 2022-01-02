@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6765720c-c455-43da-bdcb-59540de2ce87" name="Changes" comment="Phase 4: Task 3&#10;&#10;Added documentation to methods in classes in ui">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/MainFrame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1z3cAqQETYBMVcdmKFwkYPIQu7e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abhig\IdeaProjects\CPSC210\labs\project_x2t5q" />
+      <recent name="C:\Users\abhig\IdeaProjects\CPSC210\labs\project_x2t5q\src" />
+      <recent name="C:\Users\abhig\IdeaProjects\CPSC210\labs\project_x2t5q\data" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventLogTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.EventLogTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.EventTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventTest.testEvent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.EventTest" />
+      <option name="METHOD_NAME" value="testEvent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonWriterTest.testWriterGeneralWorkroom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="persistence" />
+      <option name="MAIN_CLASS_NAME" value="persistence.JsonWriterTest" />
+      <option name="METHOD_NAME" value="testWriterGeneralWorkroom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.EventLogTest" />
+      <item itemvalue="JUnit.EventTest" />
+      <item itemvalue="JUnit.EventTest.testEvent" />
+      <item itemvalue="JUnit.JsonWriterTest.testWriterGeneralWorkroom" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.EventTest" />
+        <item itemvalue="JUnit.EventTest.testEvent" />
+        <item itemvalue="JUnit.EventLogTest" />
+        <item itemvalue="JUnit.JsonWriterTest.testWriterGeneralWorkroom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6765720c-c455-43da-bdcb-59540de2ce87" name="Changes" comment="" />
+      <created>1633380072836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633380072836</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Cleaned up Trade">
+      <created>1633845589834</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1633845589834</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Cleaning up code">
+      <created>1633845889848</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1633845889848</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Cleaned up code">
+      <created>1633846196051</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1633846196051</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Cleaned up README.md">
+      <created>1633847245515</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1633847245516</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Cleaned up TradingLog">
+      <created>1633902815832</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1633902815832</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fixed nullpointer error in TradingLog">
+      <created>1633908211806</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1633908211806</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fixed error in viewTrade">
+      <created>1633908497653</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1633908497654</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Fixed errors in TradingLog and changed functions in Trade and TradeList">
+      <created>1634151446684</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1634151446685</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Fixed implementation of methods">
+      <created>1634154141063</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1634154141063</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added tests to TradeTest">
+      <created>1634178590742</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1634178590742</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added tests to TradesListTest">
+      <created>1634178864202</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1634178864202</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Final edits">
+      <created>1634185666423</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1634185666423</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Final edits">
+      <created>1634185875875</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1634185875875</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Did more code coverage in TradeTest">
+      <created>1634186777027</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1634186777027</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added user stories regarding data persistence">
+      <created>1634609945462</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1634609945462</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added json file to lib">
+      <created>1634705793343</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1634705793343</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Trying to add persistence attributes from other project to this one.">
+      <created>1634706758946</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1634706758946</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added mad persistence innit">
+      <created>1634786765338</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1634786765338</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added persistence and it worked this time">
+      <created>1634787262183</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1634787262183</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added test classes to test folder">
+      <created>1634787536739</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1634787536739</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added test classes to test folder">
+      <created>1634788258674</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1634788258674</updated>
+    </task>
+    <task id="LOCAL-00040" summary="added Json files and finished JsonReaderTest tests">
+      <created>1634930328854</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1634930328854</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Finished most of Phase 2 - just need to double check now">
+      <created>1634931222568</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1634931222568</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Fixed checkstyle problems">
+      <created>1634931515666</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1634931515666</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Added json to github">
+      <created>1634931920609</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1634931920609</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Fixed">
+      <created>1634932232279</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1634932232279</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Final touches and provided links to where code is inspired from.">
+      <created>1635046446337</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1635046446337</updated>
+    </task>
+    <task id="LOCAL-00046" summary="AppFrame">
+      <created>1636318548663</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1636318548663</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Adding buttons and labels and text fields idek">
+      <created>1636346549018</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1636346549018</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Adding buttons and labels and text fields idek">
+      <created>1636347916818</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1636347916818</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Made ButtonPanel class in Java">
+      <created>1636873118412</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1636873118412</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Changed a lot">
+      <created>1636874722370</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1636874722370</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Made labels local to whole class rather than just the method">
+      <created>1636874965829</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1636874965829</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Changed a lot">
+      <created>1636877909352</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1636877909352</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Improved readability">
+      <created>1636878171302</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1636878171302</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Made new classes will implement soon">
+      <created>1636878483149</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1636878483149</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Done for tonight">
+      <created>1636879357712</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1636879357712</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Minor changes">
+      <created>1636957066963</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1636957066963</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Almost done">
+      <created>1637035866037</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1637035866037</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Pretty much finished">
+      <created>1637036581547</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1637036581548</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Fixed error">
+      <created>1637036848954</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1637036848954</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Added Event and EventLog">
+      <created>1637395747085</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1637395747086</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Started implementing the logging of events">
+      <created>1637397577616</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1637397577616</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Phase 4: Task 2">
+      <created>1637712490113</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1637712490114</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Phase 4: Task 2">
+      <created>1637712567041</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1637712567041</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Phase 4: Task 2">
+      <created>1637713566545</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1637713566545</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Phase 4: Task 3">
+      <created>1637823942308</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1637823942309</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Phase 4: Task 3">
+      <created>1637954315118</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1637954315119</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Phase 4: Task 3&#10;&#10;Added documentation to methods in classes in ui">
+      <created>1637956992832</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1637956992833</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added persistence and it worked this time" />
+    <MESSAGE value="Added test classes to test folder" />
+    <MESSAGE value="added Json files and finished JsonReaderTest tests" />
+    <MESSAGE value="Finished most of Phase 2 - just need to double check now" />
+    <MESSAGE value="Fixed checkstyle problems" />
+    <MESSAGE value="Added json to github" />
+    <MESSAGE value="Fixed" />
+    <MESSAGE value="Final touches and provided links to where code is inspired from." />
+    <MESSAGE value="AppFrame" />
+    <MESSAGE value="Adding buttons and labels and text fields idek" />
+    <MESSAGE value="Made ButtonPanel class in Java" />
+    <MESSAGE value="Made labels local to whole class rather than just the method" />
+    <MESSAGE value="Changed a lot" />
+    <MESSAGE value="Improved readability" />
+    <MESSAGE value="Made new classes will implement soon" />
+    <MESSAGE value="Done for tonight" />
+    <MESSAGE value="Minor changes" />
+    <MESSAGE value="Almost done" />
+    <MESSAGE value="Pretty much finished" />
+    <MESSAGE value="Fixed error" />
+    <MESSAGE value="Added Event and EventLog" />
+    <MESSAGE value="Started implementing the logging of events" />
+    <MESSAGE value="Phase 4: Task 2" />
+    <MESSAGE value="Phase 4: Task 3" />
+    <MESSAGE value="Phase 4: Task 3&#10;&#10;Added documentation to methods in classes in ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phase 4: Task 3&#10;&#10;Added documentation to methods in classes in ui" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Starter$TradesListTest.ic" NAME="TradesListTest Coverage Results" MODIFIED="1634178782699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>model.*</FILTER>
+      <FILTER>model.TradesList</FILTER>
+      <FILTER>model.Trade</FILTER>
+      <FILTER>model.TradesListTest</FILTER>
+      <FILTER>model.TradeTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$Main.ic" NAME="Main Coverage Results" MODIFIED="1633738259714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$TradeTest.ic" NAME="TradeTest Coverage Results" MODIFIED="1634178621826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>model.*</FILTER>
+      <FILTER>model.Trade</FILTER>
+      <FILTER>model.TradesList</FILTER>
+      <FILTER>model.TradesListTest</FILTER>
+      <FILTER>model.TradeTest</FILTER>
+    </SUITE>
+  </component>
+</project>
